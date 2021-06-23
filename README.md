@@ -1,1 +1,1 @@
-# interface_comparable
+# Interface - Comparable
